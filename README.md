@@ -1,4 +1,4 @@
-# Slides de Aulas ministrados no IFMG - Campus Formiga
+# Aulas ministrados no IFMG - *Campus Formiga*
 
 O repositório contém os slides das aulas ministradas nos cursos de Ciência da Computação e Técnico em Informática, no IFMG - *Campus Formiga*, entre 2020 e 2022.
 
