@@ -1,0 +1,6 @@
+https://pypi.org/project/geneticalgorithm/
+https://blog.paperspace.com/genetic-algorithm-applications-using-pygad/
+https://medium.com/@pasdan/genetic-algorithm-the-travelling-salesman-problem-via-python-deap-f238e0dd1a73
+
+https://github.com/MorvanZhou/Evolutionary-Algorithm
+https://gist.github.com/josephmisiti/940cee03c97f031188ba7eac74d03a4f

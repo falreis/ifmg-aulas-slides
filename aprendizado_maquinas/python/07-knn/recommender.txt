@@ -1,0 +1,11 @@
+https://medium.com/@jwu2/building-a-collaborative-filtering-model-with-decision-trees-56256b95cb03
+https://towardsdatascience.com/build-your-own-clustering-based-recommendation-engine-in-15-minutes-bdddd591d394
+https://www.hranalytics101.com/beginner-simple-recommender-system-kmeans/
+
+KNN
+https://www.youtube.com/watch?v=kccT0FVK6OY&ab_channel=KrishNaik
+https://github.com/krishnaik06/Recommendation_complete_tutorial
+https://www.youtube.com/watch?v=Vkh2ay8hbbo&ab_channel=labbme_in
+
+https://www.computersciencemaster.com.br/como-funciona-o-algoritmo-knn/
+https://www.computersciencemaster.com.br/como-funciona-o-algoritmo-k-means/
